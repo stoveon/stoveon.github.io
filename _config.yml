@@ -36,7 +36,11 @@ color_6: 4054b2
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg1_1.jpg
-  title: 안녕하세요. <br>반갑습니다:)</br>
+  title: Jieun's<br> Portfolio site
+  position: absolute
+  transform:  translate( -50%, -50%)
+  left: 25%
+  bottom: 60%
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
@@ -48,17 +52,28 @@ slider_1: # 형식에 맞추어 항목 추가
     아무것도 몰랐지만<br>
     포기하지 않고 차근히 성장해온<br>
     신입 개발자 정지은입니다.
+  position: absolute
+  transform:  translate( -50%, -50%)
+  left: 50%
+  bottom: 30%
 
 
 # About
 about_meta: About Me
 about_header: >- 
-  "그저 정보 검색에만 컴퓨터를 사용했던 어린시절"
+  "타자 조차 느렸던 정지은"
 about_introduce: >-
   "안녕하세요. 백엔드 개발자에서 시작하여 풀스택 개발자가 되고자 하는 신입 개발자 정지은입니다."
 about_content: >-
-  설명설명
-  서서설명 
+  게임도 안하고 컴퓨터를 잘 몰라서 친하지 않았습니다.<br>
+  검색과 공부를 하기 위해서만 컴퓨터를 사용하여 영어타자는 물론 한글타자도 느렸습니다.<br>
+  점차 일상에서 많이 사용하게 되면서 궁금증이 커졌습니다.<br>
+  <strong>'이러한 사이트와 프로그램은 어떻게 만든 것일까?'</strong>, <strong>'이를 만드는 사람들은 어떤 사람들일까?' ...</strong><br>
+  그러다 코딩을 접해볼 수 있는 기회가 생겼고 하다보니 점차 빠져들게 되었습니다.<br>
+  <strong>새롭게 알아가고 배워나가는 과정은 힘든 만큼 보람이 큽니다.</strong><br>
+  전공자도 아니었고 아직 모르는 것도 많지만 조금 늦은 만큼 더 열심히 배우고 있습니다.<br>
+
+
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-code
   name: Java
@@ -68,10 +83,15 @@ about_services: # 형식에 맞추어 항목 추가
   name: App
 - icon: icon-data
   name: Server
-about_box_content: 부족함을 인정하고 더 나아가기 위해 배우자.<br> 노력은 결코 배신하지 않는다.
+about_box_content: 부족함이 부끄러워 숨기지 말고 인정하자.<br>
+                   그리고 더 나아가기 위해 계속 배우면서 최선을 다해 노력하자.<br>
+                   묵묵히 하다보면 그 끝에는 한층 성장한 내가 있다.
+
+about_box_content_color: rgb(255,255,255)
+
 about_box_button:
   link: https://github.com/stoveon
-  name: Don't give up!
+  name: I'm going to stick it out, anyhow.
 
 
 # Tech  skill
