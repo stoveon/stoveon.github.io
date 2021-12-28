@@ -1,0 +1,242 @@
+title: 지은이의 개발일지
+name: 정지은
+email: stopluna@naver.com
+description: >-
+  백엔드에서 풀스택을 향해!
+
+
+baseurl: ""
+url: "https://stoveon.github.io"
+
+
+# profile 이미지
+profile_image: images/about.jpg
+
+
+# SNS 아이디
+facebook_id: stopluna
+instagram_id: stove_o_n
+
+
+# Youtube vid
+youtube_vid: #
+
+
+# Custom Color
+primary: 5742C1 #2c98f0 #b72cf0
+primary_hover: 6950E2 #44A4F2 #9a2dc7
+color_1: 2c98f0 #b72cf0
+color_2: ec5453
+color_3: f9bf3f
+color_4: a84cb8
+color_5: 2fa499
+color_6: 4054b2
+
+
+# slider type 0  (텍스트가 우측 정렬된 슬라이더)
+slider_0: # 형식에 맞추어 항목 추가
+- background_url: images/cover_bg1_1.jpg
+  title: 안녕하세요. <br>반갑습니다:)</br>
+
+
+# slider type 1  (텍스트가 좌측 정렬된 슬라이더)
+slider_1: # 형식에 맞추어 항목 추가
+- background_url: images/cover_bg2_1.jpg
+  title: I will <br> be good at development.
+  subtitle: >- 
+    조금 멀리 돌아왔지만<br>
+    아무것도 몰랐지만<br>
+    포기하지 않고 차근히 성장해온<br>
+    신입 개발자 정지은입니다.
+
+
+# About
+about_meta: About Me
+about_header: >- 
+  "그저 정보 검색에만 컴퓨터를 사용했던 어린시절"
+about_introduce: >-
+  "안녕하세요. 백엔드 개발자에서 시작하여 풀스택 개발자가 되고자 하는 신입 개발자 정지은입니다."
+about_content: >-
+  설명설명
+  서서설명 
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-code
+  name: Java
+- icon: icon-monitor
+  name: Web
+- icon: icon-phone3
+  name: App
+- icon: icon-data
+  name: Server
+about_box_content: 부족함을 인정하고 더 나아가기 위해 배우자.<br> 노력은 결코 배신하지 않는다.
+about_box_button:
+  link: https://github.com/stoveon
+  name: Don't give up!
+
+
+# Tech  skill
+tech_meta: TECH SKILLS
+tech_header: 저는 현재 이것을 할 수 있습니다.
+tech_content: markdown으로 할수 있으면 좋을듯
+tech_list: # 형식에 맞추어 항목 추가
+- name: JAVA
+  color: color-1
+  animation: fadeInLeft
+  percent: 50
+  mark: 50
+  content: 자바 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부했습니다.
+- name: SQL
+  color: color-2
+  animation: fadeInRight
+  percent: 40
+  mark: 40
+  content: DB에 접근하기 위한 SQL을 사용하면서 효율적인 DB관리 방법에 관심이 커졌습니다. 계속해서 알아보며 공부하고 있습니다.
+- name: Javascript
+  color: color-3
+  animation: fadeInLeft
+  percent: 30
+  mark: 30
+  content: 프로젝트를 하며 Javscript를 접하고 사용하며, JQuery도 함께 조금씩 익혔습니다.
+- name: Github
+  color: color-4
+  animation: fadeInRight
+  percent: 20
+  mark: 20
+  content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행했습니다.<br> 또한 github서버를 활용하여 포트폴리오 사이트를 관리합니다.
+tech_desc: 계속해서 SKILL을 발전시켜 나가며, <strong>C, python, Node JS, React, AWS</strong>등도 조금씩 공부할 생각입니다.
+
+
+# Project
+project_meta: My Work
+project_header: PROJECT
+project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span>
+project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
+project_load_more_url: #
+
+project_my_name: 개인프로젝트
+
+project_my: # 형식에 맞추어 항목 추가
+- background_url: images/survey_coffee/survey_coffee_main.png
+  animation: fadeInLeft
+  name: SURVEY PROJECT(2021.07)
+  description: KGITBANK에서 진행한 개인 설문조사 프로젝트 입니다.<br><br>
+               남여 연령대별 커피 선택 이유 및 선호도에 대해 설문이 이루어져 있으며 <br>
+               원하는 성별과 연령대의 결과를 선택하여 확인할 수 있도록 제작했습니다.<br>
+  detail_url: #
+  readmore_url: #
+
+project_team_name: 팀프로젝트
+project_team: # 형식에 맞추어 항목 추가
+- background_url: images/insidehome/insidehome_main.png
+  animation: fadeInRight
+  name: INSIDEHOME PROJECT(2021.11)
+  description: KGITBANK에서 진행한 팀 프로젝트 입니다.<br><br>
+               사회적 이슈인 코로나19로 인해 집에서 노는 정보를 게시판을 통해 공유하거나,
+               활동을 통해 얻은 포인트를 가지고 쇼핑을 할 수 있도록 이루어진 커뮤니티 사이트입니다.<br>
+               (메인페이지(사용자/관리자)와 포인트몰(사용자/관리자), 게시판(사용자) 부분의 파트를 맡아서 구현했습니다.)
+  detail_url: #
+  readmore_url: #
+
+- background_url: images/cafeCarp_kiosk/kiosk_main.png
+  animation: fadeInRight
+  name: CAFE CARP KIOSK PROJECT(2021.12)
+  description: 가상의 카페인 cafe carp의 키오스크를 제작한 팀 프로젝트 입니다.<br><br>
+               사용자(손님)이 키오스크를 이용하는 파트 부분을 맡아서 구현했습니다.<br>
+               (키오스크 메인페이지, 회원가입, 로그인, 주문하기, 포인트 확인 및 결제 등)
+  detail_url: #
+  readmore_url: #
+
+
+# Experience
+exp_meta: What have I achieved?
+exp_header: 저는 이런 "경험"들을 해봤습니다.
+exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+exp_services: # 형식에 맞추어 항목 추가
+- name: 발전가능
+  color: color-1
+  icon: icon-bulb
+  content: 제일 부족한 실력으로 시작했으나, 뒤처지지 않기 위해 꾸준히 노력을 하여 동기들에게 인정과 칭찬을 받았습니다.
+- name: 기술습득
+  color: color-2
+  icon: icon-home
+  content: 제가 선택한 길이라면 항상 열정을 다해 공부하고 새로운 기술에 대해 즐거운 마음으로 배웁니다.
+- name: 프로젝트
+  color: color-3
+  icon: icon-phone3
+  content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+exp_counters:
+#- name: Online Class Sales
+#  count: 344
+#  speed: 10000
+- name: project
+  count: 3
+  speed: 5000
+
+
+# Career
+#carerr_meta: career
+#career_header: Work Career
+#career_list:
+#- name: 과기전통부 산학과제
+#  date: 2020.06~2020.11
+#  content: PlenOPtic Video에서 객체 tracking 연구  <br> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발
+#  color: color-1
+#  icon: icon-pen2
+#  animation: fadeInLeft
+#- name: Voice Caddie 산학과제
+#  date: 2021.05~2021.10
+#  content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
+#  color: color-2
+#  icon: icon-pen2
+#  animation: fadeInRight
+
+
+# Education
+edu_meta: Education
+edu_header: Education
+edu_list:
+- title: THE ACADEMIC CREDIT BANK SYSTEM Computer Engineering
+  subtitle: 학점은행제 
+  date: 2021.02 - 2022.02
+  content: 컴퓨터공학과 졸업예정
+- title: INDUK UNIVERSITY Department of Tourism Service Management
+  subtitle: 인덕대학교 
+  date: 2018.03 - 2021.02
+  content: 관광서비스경영학과 졸업
+- title: HWAGOK HEALTH MANAGEMENT HIGH SCHOOL Department of Business Information
+  subtitle: 화곡보건경영고등학교 
+  date: 2014.03 - 2016.02
+  content: >-
+    경영정보과 졸업
+
+
+# Blog
+blog_meta: self-improvement
+blog_header: BLOG and YOUTUBE
+blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
+blog_load_more_url: #
+blog_list:
+- title: 네이버블로그
+  subtitle: 개발 블로그
+  date: 2021.12
+  content: 프로젝트를 진행하며 개발 관련<br> 정보를 포스팅한 블로그입니다.
+  thumbnail_url: images/blog-1.png
+  link: https://blog.naver.com/stopluna
+
+
+# Contact
+contact_meta: Get in Touch
+contact_header: Contact
+contact_list:
+- title: stopluna@naver.com
+  icon: icon-globe-outline
+- title: 경기도 김포시 고촌읍
+  icon: icon-map
+- title: Jieun's GitHub
+  icon: icon-layers2
+  url: https://github.com/stoveon
+contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
+
+
+optional_front_matter:
+  remove_originals:    true
