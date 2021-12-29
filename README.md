@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jieun's%20GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jieun's%20GitHub&fontSize=90" />
