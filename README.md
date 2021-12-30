@@ -1,5 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Jieun%20Jeong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
+<h2 align="center"> 🍋 ME 🍋 </h2>
+
+<p align="center">
+  <ul>
+      <li><strong>NAME : 정지은</strong></li>
+      <li><strong>AGE : 1997</strong></li>
+      <li><strong>CLICK!</strong>👉&nbsp;
+        <a href="https://stoveon.github.io" >
+          Jieun's portfolio
+        </a>
+      </li>
+  </ul>
+</p>
+<br><br>
 <h2 align="center"> 🛠Tech Stack🛠 </h2>
 
 <p align="center"> Techs that I've used at least once<br><br>
@@ -16,10 +30,21 @@
   <!--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp-->
 </p>
 <br><br>
-<h2 align="center"> 🎵ME🎵 </h2>
+<h2 align="center"> 🎵PROJECT🎵 </h2>
 
 <p align="center">
-  <a href="https://stoveon.github.io" style="color: #073590;font-size: 20px;font-weight: bold;">
-    Jieun's portfolio
-  </a>
+  <ul>
+      <li>커피 설문조사 프로젝트 : <a href="https://github.com/stoveon/Survey_coffee" >
+          Coffe Survey
+        </a>
+      </li>
+      <li>웹사이트 제작 프로젝트 : <a href="https://github.com/stoveon/TEAM_PROJECT-code-" >
+          INSIDEHOME
+        </a>
+      </li>
+      <li>키오스크 프로젝트 : <a href="https://github.com/JinSolKwon/cafeKiosk-code-" >
+          Cafe Carp
+        </a>
+      </li>
+  </ul>
 </p>
