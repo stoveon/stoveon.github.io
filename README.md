@@ -15,3 +15,11 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp-->
 </p>
+<br><br>
+<h2 align="center"> 🎵ME🎵 </h2>
+
+<p align="center">
+  <a href="https://stoveon.github.io" style="color: #1F36C7;font-size: 2.0em;font-weight: bold;">
+    Jieun's portfolio
+  </a>
+</p>
