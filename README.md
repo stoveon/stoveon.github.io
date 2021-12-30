@@ -19,7 +19,7 @@
 <h2 align="center"> 🎵ME🎵 </h2>
 
 <p align="center">
-  <a href="https://stoveon.github.io" style="color: #1F36C7;font-size: 2.0em;font-weight: bold;">
+  <a href="https://stoveon.github.io" style="color: #073590;font-size: 20px;font-weight: bold;">
     Jieun's portfolio
   </a>
 </p>
