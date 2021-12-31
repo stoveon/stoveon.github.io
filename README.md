@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Jieun%20Jeong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFA883&height=250&section=header&text=Jieun%20Jeong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h2 align="center"> 🍋 ME 🍋 </h2>
 
