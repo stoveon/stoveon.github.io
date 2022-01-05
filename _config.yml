@@ -162,7 +162,7 @@ project_team: # 형식에 맞추어 항목 추가
   description: 가상의 카페인 cafe carp의 키오스크를 제작한 팀 프로젝트 입니다.<br><br>
                사용자(손님)이 키오스크를 이용하는 파트 부분을 맡아서 구현했습니다.<br>
                (키오스크 메인페이지, 회원가입, 로그인, 주문하기, 포인트 확인 및 결제 등)
-  detail_url: #
+  detail_url: pdf/CAFECARP.pdf
   readmore_url: https://github.com/JinSolKwon/cafeKiosk-code-
 
 # 더보기 내용
