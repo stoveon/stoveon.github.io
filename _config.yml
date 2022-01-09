@@ -178,7 +178,7 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 발전가능
   color: color-1
   icon: icon-bulb
-  content: 제일 부족한 실력으로 시작했으나, 뒤처지지 않기 위해 꾸준히 노력을 하여 동기들에게 인정과 칭찬을 받았습니다.
+  content: 제일 부족한 실력으로 시작했으나, 뒤처지지 않기 위해 꾸준히 노력하여 동기들에게 인정과 칭찬을 받았습니다.
 - name: 기술습득
   color: color-2
   icon: icon-home
@@ -186,7 +186,7 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 프로젝트
   color: color-3
   icon: icon-phone3
-  content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+  content: 다양한 프로젝트를 기획, 진행해 왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
 
 #exp_counters_bg_img: images/cover_bg5_1.jpg
 #exp_counters:
