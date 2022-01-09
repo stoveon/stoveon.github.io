@@ -85,7 +85,7 @@ about_services: # 형식에 맞추어 항목 추가
   name: Server
 about_box_content: 부족함이 부끄러워 숨기지 말고 인정하자.<br>
                    그리고 더 나아가기 위해 계속 배우면서 최선을 다해 노력하자.<br>
-                   묵묵히 하다보면 그 끝에는 한층 성장한 내가 있다.
+                   묵묵히 하다 보면 그 끝에는 한층 성장한 내가 있다.
 
 about_box_content_color: rgb(255,255,255)
 
@@ -98,7 +98,7 @@ about_box_button:
 tech_meta: TECH SKILLS
 tech_header: 저는 현재 이것을 할 수 있습니다.
 tech_content: 처음 Java로 개발을 시작하였습니다.<br>
-              Java, Spring, MySQL, Git 등을 사용하여 서비스를 설계, 개발한 경험으로 효율적인 코드를 작성하기 위해 언제나 고민하고 있습니다.
+              Java, Spring, Oracle DB, Git 등을 사용하여 서비스를 설계, 개발한 경험으로 효율적인 코드를 작성하기 위해 언제나 고민하고 있습니다.
 tech_list: # 형식에 맞추어 항목 추가
 - name: JAVA
   color: color-1
@@ -111,7 +111,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 40
   mark: 40
-  content: DB에 접근하기 위한 SQL을 사용하면서 효율적인 DB관리 방법에 관심이 커졌습니다. 계속해서 알아보며 공부하고 있습니다.
+  content: DB에 접근하기 위한 SQL을 사용하면서 효율적인 DB 관리 방법에 관심이 커졌습니다. 계속해서 알아보며 공부하고 있습니다.
 - name: Javascript
   color: color-3
   animation: fadeInLeft
@@ -123,8 +123,8 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 20
   mark: 20
-  content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행했습니다.<br> 또한 github서버를 활용하여 포트폴리오 사이트를 관리합니다.
-tech_desc: 계속해서 SKILL을 발전시켜 나가며, <strong>C, python, Node JS, React, AWS</strong>등도 조금씩 공부할 생각입니다.
+  content: 프로젝트 대부분을 github을 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행했습니다.<br> 또한 github 서버를 활용하여 포트폴리오 사이트를 관리합니다.
+tech_desc: 계속해서 SKILL을 발전시켜 나가며, <strong>C, python, MySQL, Node JS, React, AWS</strong>등도 조금씩 공부할 생각입니다.
 
 
 # Project
@@ -139,7 +139,7 @@ project_my: # 형식에 맞추어 항목 추가
   animation: fadeInTop
   name: SURVEY PROJECT(2021.07)
   description: KGITBANK에서 진행한 개인 설문조사 프로젝트 입니다.<br><br>
-               남여 연령대별 커피 선택 이유 및 선호도에 대해 설문이 이루어져 있으며 <br>
+               남녀 연령대별 커피 선택 이유 및 선호도에 대해 설문이 이루어져 있으며 <br>
                원하는 성별과 연령대의 결과를 선택하여 확인할 수 있도록 제작했습니다.<br>
   detail_url: pdf/SurveyCodeDocument.pdf
   readmore_url: https://github.com/stoveon/Survey_coffee
@@ -160,7 +160,7 @@ project_team: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   name: CAFE CARP KIOSK PROJECT(2021.12)
   description: 가상의 카페인 cafe carp의 키오스크를 제작한 팀 프로젝트 입니다.<br><br>
-               사용자(손님)이 키오스크를 이용하는 파트 부분을 맡아서 구현했습니다.<br>
+               사용자(손님)이 키오스크를 이용하는 부분을 맡아서 구현했습니다.<br>
                (키오스크 메인페이지, 회원가입, 로그인, 주문하기, 포인트 확인 및 결제 등)
   detail_url: pdf/CAFECARP.pdf
   readmore_url: https://github.com/JinSolKwon/cafeKiosk-code-
